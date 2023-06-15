@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "463291208215",
+    "project_id": "vermajee-62098",
+    "storage_bucket": "vermajee-62098.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463291208215:android:bda1566b0160db60448252",
+        "android_client_info": {
+          "package_name": "com.business.vermajee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463291208215-73h5848424ttpck7c2ll8ch23j5cq33o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.business.vermajee",
+            "certificate_hash": "f2a9053bcea164279d9ec0baac22dfaa300c8631"
+          }
+        },
+        {
+          "client_id": "463291208215-vmnam9glf42cvq9n5g5gjd69cs6qs590.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkRysYeIUrywhd3ja2BgQzlnFMEh40xX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463291208215-vmnam9glf42cvq9n5g5gjd69cs6qs590.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

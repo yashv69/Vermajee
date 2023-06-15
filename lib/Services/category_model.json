@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "name": "Women Dress",
+            "subcategory": [
+                "Weding & event",
+                "Tops & sets",
+                "Watches"
+            ]
+        },
+        {
+            "name": "mens fashion",
+            "subcategory": [
+                "T-shirts",
+                "formal dress",
+                "sweaters"
+            ]
+        },
+        {
+            "name": "computer accesories",
+            "subcategory": [
+                "mobile phones",
+                "laptops",
+                "headphones"
+            ]
+        },
+        {
+            "name": "Automobile",
+            "subcategory": [
+                "cars",
+                "motorcycles",
+                "trucks"
+            ]
+        },
+        {
+            "name": "kids",
+            "subcategory": [
+                "kids clothing",
+                "girls footwear",
+                "shoes"
+            ]
+        },
+        {
+            "name": "Sports",
+            "subcategory": [
+                "cycling",
+                "games",
+                "snealers"
+            ]
+        },
+        {
+           "name": "jewelery",
+           "subcategory": [
+             "necklace",
+             "rings",
+             "bracelets"
+           ]
+        },
+        {
+            "name": "tablets",
+            "subcategory": [
+                "covers",
+                "10 inch",
+                "11inch"  
+            ]
+        },
+        {
+            "name": "furniture",
+            "subcategory": [
+                "beds",
+                "chairs",
+                "sofa"
+            ]
+        }
+    ]
+}
